@@ -2,7 +2,7 @@ name: validation_text_input
 description: A new Flutter package.
 version: 0.0.1
 author: Yuda Prama<yudapramad@gmail.com>
-homepage:
+homepage: https://github.com/yudaprama/validation_text_input.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
